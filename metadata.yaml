@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24565#Two-Gallant-Sons-of-DevonA-Tale-of-the-Days-of-Queen-Bess
 gutenberg_issued: '2008-02-10'
 gutenberg_type: Text
 identifiers:
