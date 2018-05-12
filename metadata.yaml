@@ -1,0 +1,38 @@
+_repo: Two-Gallant-Sons-of-DevonA-Tale-of-the-Days-of-Queen-Bess_24565
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hodgson, E. S. (Edward Smith)
+    aliases:
+    - Hodgson, Edward Smith
+    - Hodgson, E.S.
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '9707'
+    url: http://www.gutenberg.org/2009/agents/9707
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: ''
+gutenberg_issued: '2008-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Seafaring life -- Juvenile fiction'
+title: 'Two Gallant Sons of Devon: A Tale of the Days of Queen Bess'
+url: http://www.gutenberg.org/ebooks/24565
